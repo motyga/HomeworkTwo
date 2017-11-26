@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HomeworkTwo</string>
+    <string name="input_name_string">Введите имя</string>
+    <string name="take_photo_string">Сделать фото</string>
+    <string name="error_string">Ошибка! Введите имя</string>
+    <string name="title_activity_after_take_photo">AfterTakePhotoActivity</string>
+</resources>

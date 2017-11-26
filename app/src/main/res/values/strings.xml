@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HomeworkTwo</string>
+    <string name="input_name_string">Input name</string>
+    <string name="take_photo_string">Take photo</string>
+    <string name="title_activity_after_take_photo">AfterTakePhotoActivity</string>
+    <string name="error_string">Error! Input name</string>
+</resources>
